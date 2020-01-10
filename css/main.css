@@ -64,3 +64,37 @@ a:hover {
 * Components
 * ----------
 */
+
+
+.entete{
+  background-color: #fcce00;
+  color: #fff;
+  text-align: center;
+  font-weight: 900;
+  padding: 20px 0;
+}
+
+.titre {
+  font-size: 88px; 
+  text-transform: uppercase;
+}
+
+.sous-titre {
+  font-size: 38px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
