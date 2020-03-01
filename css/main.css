@@ -313,9 +313,26 @@ a:hover {
   text-align: center;
 }
 
+.an-arcade {
+  width: 640px;
+  height: 45px;
+  margin-top: -500px;
+  margin-left: 60px;
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
 .paragraphe-red {
   width: 487px;
   height: 66px;
+  margin-top: -50px;
+  margin-left: 60px;
   font-family: Poppins;
   font-size: 24px;
   font-weight: normal;
@@ -326,4 +343,98 @@ a:hover {
   color: #ffffff;
 }
 
+.bouton_rouge {
+  width: 185px;
+  height: 45px;
+  margin-top: 30px;
+  margin-left: 60px;
+  border-radius: 15px;
+  border: solid 4px #ffffff;
+  background-color: #E64A4A;
+  }
 
+.learn_more_3 {
+  width: 138px;
+  height: 31px;
+  margin-top: 3px;
+  margin-left: 20px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.dégradé_violet {
+  width: 1440px;
+  height: 640px;
+  background: linear-gradient(to bottom, #C34AE6 50%, #D276EC 50%, 
+    #D276EC 75%, #E1A3F2 75%, #E1A3F2 88%, #F0D2F9 88% );
+}
+
+.screen2 {
+  width: 745px;
+  height: 576px;
+  margin-left: 700px;
+  object-fit: contain;
+  opacity: 0.9;
+  mix-blend-mode: darken;
+}
+
+.a-computer {
+  margin-left: 60px;
+  margin-top: -500px;
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.paragraphe-violet {
+  width: 487px;
+  height: 66px;
+  margin-left: 0px;
+  margin-top: 0px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.bouton_violet {
+  width: 185px;
+  height: 45px;
+  margin-top: 30px;
+  margin-left: 0px;
+  border-radius: 15px;
+  border: solid 4px #ffffff;
+  background-color: #C34AE6;
+}
+
+.learn_more_4 {
+  width: 138px;
+  height: 31px;
+  margin-top: 3px;
+  margin-left: 20px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
