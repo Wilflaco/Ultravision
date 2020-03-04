@@ -512,3 +512,67 @@ margin-top: 350px;
   text-align: center;
   color: #ffffff;
 }
+
+.rectangle-noir {
+  width: 1440px;
+  height: 2229px;
+  margin-top: 350px;
+  background-color: #231f20;
+}
+
+.title-noir {
+  width: 316px;
+  height: 56px;
+  margin-left: 570px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.image1 {
+  margin-top: 100px;
+  margin-left: 50px;
+  padding-right: 20px; 
+}
+
+.image2 {
+  padding-right: 20px; 
+}
+
+.image3 {
+  padding-right: 20px;
+}
+
+.image5 {
+  margin-top: 20px;
+  margin-left: 50px;
+  padding-right: 20px; 
+}
+
+.image6 {
+  padding-right: 20px; 
+}
+
+.image7 {
+  padding-right: 20px;
+}
+
+.image9 {
+  margin-top: 20px;
+  margin-left: 50px;
+  padding-right: 20px; 
+}
+
+.image10 {
+  padding-right: 20px;
+}
+
+.image11 {
+  padding-right: 20px;
+}
