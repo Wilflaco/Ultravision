@@ -385,7 +385,7 @@ a:hover {
   mix-blend-mode: darken;
 }
 
-.a-computer {
+.a-color-tv {
   margin-left: 60px;
   margin-top: -500px;
   font-family: Poppins;
@@ -424,6 +424,80 @@ a:hover {
 }
 
 .learn_more_4 {
+  width: 138px;
+  height: 31px;
+  margin-top: 3px;
+  margin-left: 20px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.bloc_5{
+margin-top: 350px;
+}
+
+.dégradé_bleu {
+  width: 1440px;
+  height: 640px;
+  background: linear-gradient(to bottom, #7F5BFF 50%, #9F84FF 50%, 
+    #9F84FF 75%, #BEACFF 75%, #BEACFF 88%, #DFD6FF 88% );
+}
+
+.screen3 {
+  width: 745px;
+  height: 576px;
+  margin-left: 700px;
+  object-fit: contain;
+  opacity: 0.9;
+  mix-blend-mode: darken;
+}
+
+.a-computer {
+  margin-left: 60px;
+  margin-top: -500px;
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.paragraphe-bleu {
+  width: 487px;
+  height: 66px;
+  margin-left: 0px;
+  margin-top: 0px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.bouton_bleu {
+  width: 185px;
+  height: 45px;
+  margin-top: 30px;
+  margin-left: 0px;
+  border-radius: 15px;
+  border: solid 4px #ffffff;
+  background-color: #7F5BFF;
+}
+
+.learn_more_5 {
   width: 138px;
   height: 31px;
   margin-top: 3px;
